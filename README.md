@@ -1,4 +1,5 @@
-## Join us via this signup link! https://forms.gle/UYbiwDHSmrskXzJM7
+## Join us via this signup link!
+[signup link]https://forms.gle/UYbiwDHSmrskXzJM7
 
 ![slide1](/Slide1.PNG)
 ![slide1](/Slide2.PNG)
@@ -13,4 +14,5 @@
 ![slide1](/Slide11.PNG)
 ![slide1](/Slide12.PNG)
 
-## Join now! https://forms.gle/UYbiwDHSmrskXzJM7
+## Join now! 
+[signup link]https://forms.gle/UYbiwDHSmrskXzJM7
